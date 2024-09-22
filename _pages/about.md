@@ -33,18 +33,23 @@ My previous research primarily focused on **wireless communication**. Currently,
 
 [Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613)  
 Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
+
 *Journal on Selected Areas in Communications (JSAC)* | [Paper](images/papers/JSAC.pdf)
 
 ---
 
 **Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios**  
+
 **Gang Liu**, Siming Wang, Renzhi Yuan, Mugen Peng 
+
 *IEEE/CIC International Conference on Communications in China (ICCC 2024)* | Paper
 
 ---
 
 **The Framework for Stress Detection Based on Electrodermal Activity and Machine Learning in Multi-Scenario Integration**  
+
 **Gang Liu**, Zhi Zheng 
+
 *International Conference on Affective Computing and Intelligent Interaction (ACII)* | Pending Submission
 
 

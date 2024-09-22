@@ -45,7 +45,7 @@ Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communicatio
 **IEEE/CIC International Conference on Communications in China (ICCC 2024)** | Paper
 
 ---
-[CD-GPT: A Biological Foundation Model Bridging the Gap between Molecular Sequences Through Central Dogma](https://www.biorxiv.org/content/10.1101/2024.06.24.600337v1.abstract)
+The Framework for Stress Detection Based on Electrodermal Activity and Machine Learning in Multi-Scenario Integration
 
 **Gang Liu**, Zhi Zheng
 
@@ -60,7 +60,7 @@ Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communicatio
 
 
 <div class='school-box'>
-<div><img src='images/bupt.png' alt="sym" width="80"></div>
+<div><img src='images/nd.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 *2024/07 - 2024/09*, International Summer Undergraduate Research Experience(iSURE) 
 

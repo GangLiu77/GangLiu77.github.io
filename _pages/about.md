@@ -60,7 +60,7 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
 **Gang Liu**, Zhi Zheng 
 
-*International Conference on Affective Computing and Intelligent Interaction (ACII)* | Pending Submission
+*International Conference on Affective Computing and Intelligent Interaction (ACII 2025)* | Pending Submission
 <!-- </div>
 </div> -->
 

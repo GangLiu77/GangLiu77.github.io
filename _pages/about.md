@@ -31,26 +31,22 @@ My previous research primarily focused on **wireless communication**. Currently,
 
 # 📝 Publications 
 
-
-[Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613)
-
-Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
-
-**Journal on Selected Areas in Communications(JSAC)** | <a href="images/papers/JSAC.pdf" target="_blank">Paper</a>
+[Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613)  
+**Renzhi Yuan, Siming Wang, Gang Liu, Mugen Peng**  
+*Journal on Selected Areas in Communications (JSAC)* | [Paper](images/papers/JSAC.pdf)
 
 ---
-Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios
 
-**Gang Liu**, Siming Wang, Renzhi Yuan, Mugen Peng
-
-**IEEE/CIC International Conference on Communications in China (ICCC 2024)** | Paper
+**Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios**  
+**Gang Liu, Siming Wang, Renzhi Yuan, Mugen Peng**  
+*IEEE/CIC International Conference on Communications in China (ICCC 2024)* | Paper
 
 ---
-The Framework for Stress Detection Based on Electrodermal Activity and Machine Learning in Multi-Scenario Integration
 
-**Gang Liu**, Zhi Zheng
+**The Framework for Stress Detection Based on Electrodermal Activity and Machine Learning in Multi-Scenario Integration**  
+**Gang Liu, Zhi Zheng**  
+*International Conference on Affective Computing and Intelligent Interaction (ACII)* | Pending Submission
 
-**International Conference on Affective Computing and Intelligent Interaction (ACII)** | Pending Submission
 
 
 
@@ -63,7 +59,7 @@ The Framework for Stress Detection Based on Electrodermal Activity and Machine L
 <div class='school-box'>
 <div><img src='images/nd.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-*2024/07 - 2024/09*, International Summer Undergraduate Research Experience(iSURE) 
+*2024/07 - 2024/09*, Summer Research
 
 University of Notre Dame, Indiana
 

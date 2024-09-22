@@ -62,13 +62,24 @@ Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communicatio
 <div class='school-box'>
 <div><img src='images/bupt.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-*2020/09 - 2024/07*, Bachelor
+*2021/09 - 2025/07*, Bachelor
 
 Beijing University of Posts and Telecommunications, Beijing
+
+Average Score: 90.91/100 (Rank: 8/328)
 </div>
 </div>
 
+<div class='school-box'>
+<div><img src='images/bupt.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+*2021/09 - 2025/07*, Bachelor
 
+Beijing University of Posts and Telecommunications, Beijing
+
+Average Score: 90.91/100 (Rank: 8/328)
+</div>
+</div>
 
 
 <!-- # 💻 Internships

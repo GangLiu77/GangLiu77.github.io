@@ -34,10 +34,10 @@ My previous research primarily focused on **wireless communication**. Currently,
 
 [Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613)
 
-Renzhi Yuan\*, Siming Wang\*, **Gang Liu**\*, Mugen Peng
+Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
-**Journal on Selected Areas in Communications(JSAC)** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) |
-
+**Journal on Selected Areas in Communications(JSAC)** | [Paper]() 
+src='images/papers/2302.01560.png' 
 <!-- </div>
 </div> -->
 

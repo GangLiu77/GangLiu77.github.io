@@ -29,9 +29,6 @@ gliu22@nd.edu | g.liu@se21.qmul.ac.uk.
 My previous research primarily focused on **wireless communication**. Currently, my research interests lie in using **signal processing** techniques to enhance **health monitoring and disease diagnosis**.
 
 
-
-
-
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -107,6 +104,16 @@ Queen Mary University of London, London
 
 </div>
 </div>
+
+# 🤪 Other Interesting Details
+
+During my undergraduate years, I ventured into various fascinating fields. I had a brief experience conducting research on **Graph Neural Networks** at the Chinese Academy of Sciences. I also explored **edge computing in communications** during Tsinghua University's AIR Winter Camp, where we aimed to better schedule base stations for optimal network resource allocation. At BUPT, I used **software-defined radio** equipment to measure spectrum resources across multiple areas in Beijing and conducted detailed analysis and prediction of these resources.
+
+Outside of my academic pursuits, I have a wide range of personal interests. I'm a music enthusiast 🎶, and this year, I attended numerous concerts and livehouse performances, including Mayday. I’d like to recommend my favorite artist, [Novo Amor](https://novoamor.co.uk/), a highly talented Welsh singer. I also enjoy mixology 🍾, cooking 🧑‍🍳 (if not for research, my dream would be to become a great chef), traveling ✈️, and gaming 🎮. I once reached Diamond rank in League of Legends.
+
+
+
+
 
 
 <!-- # 💻 Internships

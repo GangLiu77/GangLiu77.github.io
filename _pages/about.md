@@ -40,7 +40,7 @@ My previous research primarily focused on **wireless communication**. Currently,
 
 Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
-*Journal on Selected Areas in Communications (JSAC)* | <a href="images/papers/JSAC.pdf" target="_blank">PDF</a>
+*Journal on Selected Areas in Communications (JSAC)* | [PDF](../images/papers/JSAC.pdf)
 <!-- </div>
 </div> -->
 

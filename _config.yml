@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Gang Liu"
-  avatar           : "images/avatar/avatar-512x512.png"
-  bio              : "Mphil at The Hong Kong Unsiversity of Science and Technology (Guangzhou)."
-  location         : "Guangzhou, China"
+  avatar           : "images/avatar/gangliu.png"
+  bio              : "undergraduate student at Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London joint program."
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=X8b1RoYAAAAJ"
-  email            : "shawnxzhu@gmail.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=X8b1RoYAAAAJ"
+  email            : "gliu22@nd.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

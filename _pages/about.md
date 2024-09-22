@@ -62,11 +62,10 @@ Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communicatio
 <div class='school-box'>
 <div><img src='images/bupt.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-*2021/09 - 2025/07*, Bachelor
+*2024/07 - 2024/09*, International Summer Undergraduate Research Experience(iSURE) 
 
-Beijing University of Posts and Telecommunications, Beijing
+University of Notre Dame, Indiana
 
-Average Score: 90.91/100 (Rank: 8/328)
 </div>
 </div>
 
@@ -81,12 +80,22 @@ Average Score: 90.91/100 (Rank: 8/328)
 </div>
 </div>
 
+<div class='school-box'>
+<div><img src='images/qmul.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+*2021/09 - 2025/07*, Expected **First Class** Degree
+  
+Queen Mary University of London, London
+
+</div>
+</div>
+
 
 <!-- # 💻 Internships
 - *2023/09 - 2024/07*: Research Intern at **Tencent AI Lab**, under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN).
 - *2023/02 - 2023/08*: Visiting Student at **CAIRI, Westlake University**, under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). -->
 
-# 💻 Internships
+<!-- # 💻 Internships
 
 <div class='school-box'>
 <div><img src='images/tencentailab.png' alt="sym" width="80"></div>
@@ -104,4 +113,4 @@ Average Score: 90.91/100 (Rank: 8/328)
 
 **CAIRI, Westlake University**, under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN)
 </div>
-</div>
+</div>-->

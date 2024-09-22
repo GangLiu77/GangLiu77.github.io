@@ -18,30 +18,26 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑🏻 Bio
+I am currently a senior undergraduate student at Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London joint program.
 
-I'm a Mphil student at The Hong Kong University of Science and Technology (Guangzhou) and obtained my bachelor degree at Beijing University of Posts and Telecommunications.
+From 2023 to 2024, I conducted research on wireless optical communication under the guidance of [Prof.Renzhi Yuan](https://scholar.google.com/citations?user=vuiBkVIAAAAJ&hl=en&oi=ao) at **BUPT**. In the summer of 2024, I participated in the iSURE program at the **University of Notre Dame**, where I conducted research on physiological signal processing under the supervision of [Prof.Zhi Zheng](https://engineering.nd.edu/faculty/zhi-zheng/).
 
-Before this, I was fortunate to be a research intern at **Tencent AI Lab** under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN) and **CAIRI  Westlake University** under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
 
 
 # 🔬 Research Interests
+My previous research primarily focused on **wireless communication**. Currently, my research interests lie in using **signal processing** techniques to enhance **health monitoring and disease diagnosis**.
 
-My previous research primarily focused on **AI for Science**. Specifically, I explored the potential and application of Graph Neural Networks and Large Language Models in biology. You can view my publication list for more details.
-
-
-
-# 🔥 News
-- *2023/09*: &nbsp;🎉🎉 One [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) is accepted by NeurIPS 2023.
 
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-[Understanding the Limitations of Deep Models for Molecular property prediction: Insights and Solutions](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf)
+[Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613)
 
-Jun Xia\*, Lecheng Zhang\*, **Xiao Zhu**\*, Yue Liu, Zhangyang Gao, Bozhen Hu, Cheng Tan, Jiangbin Zheng, Siyuan Li, Stan Z. Li
+Renzhi Yuan\*, Siming Wang\*, **Gang Liu**\*, Mugen Peng
 
-**NeurIPS 2023** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) | [Code](https://github.com/junxia97/IFM) ｜ ![Stars](https://img.shields.io/github/stars/junxia97/IFM)
+**Journal on Selected Areas in Communications(JSAC)** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) |
+
 <!-- </div>
 </div> -->
 
@@ -93,15 +89,8 @@ Beijing University of Posts and Telecommunications, Beijing
 </div>
 </div>
 
-<!--
-- *2020/09 - now*, undergraduate majoring in Computer Science, Beijing University of Posts and Telecommunications
--->
 
-<!--
-# 💬 Invited Talks
-- *2021/06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021/03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+
 
 <!-- # 💻 Internships
 - *2023/09 - 2024/07*: Research Intern at **Tencent AI Lab**, under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN).

@@ -29,29 +29,44 @@ gliu22@nd.edu | g.liu@se21.qmul.ac.uk.
 My previous research primarily focused on **wireless communication**. Currently, my research interests lie in using **signal processing** techniques to enhance **health monitoring and disease diagnosis**.
 
 
+
+
+
 # 📝 Publications 
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 [Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613) 
 
 Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
 *Journal on Selected Areas in Communications (JSAC)* | Paper
+<!-- </div>
+</div> -->
 
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 ---
-
 **Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios**  
 
 **Gang Liu**, Siming Wang, Renzhi Yuan, Mugen Peng 
 
 *IEEE/CIC International Conference on Communications in China (ICCC 2024)* | Paper
+<!-- </div>
+</div> -->
 
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 ---
-
 **The Framework for Stress Detection Based on Electrodermal Activity and Machine Learning in Multi-Scenario Integration**  
+
 
 **Gang Liu**, Zhi Zheng 
 
 *International Conference on Affective Computing and Intelligent Interaction (ACII)* | Pending Submission
+<!-- </div>
+</div> -->
+
 
 
 

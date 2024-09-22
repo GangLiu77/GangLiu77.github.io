@@ -51,7 +51,7 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
 **Gang Liu**, Siming Wang, Renzhi Yuan, Mugen Peng 
 
-*IEEE/CIC International Conference on Communications in China (ICCC 2024)* | Paper
+*IEEE/CIC International Conference on Communications in China (ICCC 2024)* | [PDF](../images/papers/ICCC_2024.pdf)
 <!-- </div>
 </div> -->
 

@@ -28,6 +28,7 @@ gliu22@nd.edu | g.liu@se21.qmul.ac.uk.
 # 🔬 Research Interests
 My previous research primarily focused on **wireless communication**. Currently, my research interests lie in using **signal processing** techniques to enhance **health monitoring and disease diagnosis**.
 
+More specifically, we can effectively monitor human health using physiological signals such as electrodermal activity (EDA), electroencephalograms (EEG), and heart rate. These signals help us detect whether an individual is under stress or experiencing low mood, ensuring both mental and physical well-being—this was the focus of my summer research. Additionally, wireless signals such as WiFi can be used to monitor human behavior, for example, detecting falls or sudden tremors. These signals allow for timely alerts, prompting further medical examinations and care—this is the focus of my undergraduate thesis.
 
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>

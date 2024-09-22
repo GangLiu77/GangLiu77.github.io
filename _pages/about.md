@@ -29,8 +29,7 @@ My previous research primarily focused on **wireless communication**. Currently,
 
 
 # 📝 Publications 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+
 
 [Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613)
 
@@ -38,34 +37,19 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
 **Journal on Selected Areas in Communications(JSAC)** | <a href="images/papers/JSAC.pdf" target="_blank">Paper</a>
 
-<a href="https://GangLiu77.github.io/repository-name/images/papers/JSAC.pdf" target="_blank">Paper</a>
-
-
-<!-- </div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 ---
-[GLBench: A Comprehensive Benchmark for Graph with Large Language Models](https://arxiv.org/abs/2407.07457)
+Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios
 
-Yuhan Li\*, Peisong Wang\*, **Xiao Zhu**, Aochuan Chen, Haiyun Jiang, Deng Cai, Victor Wai Kin Chan, Jia Li
+**Gang Liu**, Siming Wang, Renzhi Yuan, Mugen Peng
 
-**Under Review** | [Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench) ｜ ![Stars](https://img.shields.io/github/stars/NineAbyss/GLBench)
-<!-- </div>
-</div> -->
+**IEEE/CIC International Conference on Communications in China (ICCC 2024)** | Paper
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 ---
 [CD-GPT: A Biological Foundation Model Bridging the Gap between Molecular Sequences Through Central Dogma](https://www.biorxiv.org/content/10.1101/2024.06.24.600337v1.abstract)
 
+**Gang Liu**, Zhi Zheng
 
-**Xiao Zhu**, Chenchen Qin, Fang Wang, Fan Yang, Bing He, Yu Zhao, Jianhua Yao
-
-**Under Review** | [Paper](https://www.biorxiv.org/content/10.1101/2024.06.24.600337v1.abstract) | [Code](https://github.com/TencentAI4S/CD-GPT) ｜ ![Stars](https://img.shields.io/github/stars/TencentAI4S/CD-GPT)
-<!-- </div>
-</div> -->
+**International Conference on Affective Computing and Intelligent Interaction (ACII)** | Pending Submission
 
 
 
@@ -74,14 +58,6 @@ Yuhan Li\*, Peisong Wang\*, **Xiao Zhu**, Aochuan Chen, Haiyun Jiang, Deng Cai, 
 
 # 📖 Educations
 
-<div class='school-box'>
-<div><img src='images/hkustgz.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-*2024/09 - now*, Postgraduate
-
-The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
-</div>
-</div>
 
 <div class='school-box'>
 <div><img src='images/bupt.png' alt="sym" width="80"></div>

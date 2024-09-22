@@ -38,6 +38,9 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
 **Journal on Selected Areas in Communications(JSAC)** | <a href="images/papers/JSAC.pdf" target="_blank">Paper</a>
 
+<a href="https://GangLiu77.github.io/repository-name/images/papers/JSAC.pdf" target="_blank">Paper</a>
+
+
 <!-- </div>
 </div> -->
 

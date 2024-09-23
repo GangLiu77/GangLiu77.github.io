@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑🏻 Bio
-I am currently a senior undergraduate student at Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London joint program.
+Hello! My name is Gang Liu(刘纲). I am currently a senior undergraduate student at Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London joint program, and my major is telecommunications Engineering.
 
 From 2023 to 2024, I conducted research on wireless optical communication under the guidance of [Prof.Renzhi Yuan](https://scholar.google.com/citations?user=vuiBkVIAAAAJ&hl=en&oi=ao) at **BUPT**. In the summer of 2024, I participated in the iSURE program at the **University of Notre Dame**, where I conducted research on physiological signal processing under the supervision of [Prof.Zhi Zheng](https://engineering.nd.edu/faculty/zhi-zheng/).
 
@@ -91,6 +91,8 @@ University of Notre Dame, Indiana
 *2021/09 - 2025/07*, Bachelor
 
 Beijing University of Posts and Telecommunications, Beijing
+
+Major:Telecommunications Engineering
 
 Average Score: 90.91/100 (Rank: 8/328)
 </div>

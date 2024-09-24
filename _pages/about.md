@@ -56,6 +56,17 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 ---
+**Integration of Non-Line-of-Sight Ultraviolet Communication and Positioning: Key Technologies and Core Challenges**  
+
+Renzhi Yuan, Siming Wang, **Gang Liu**, Xinyi Chu, Mugen Peng
+
+*Journal of Beijing University of Posts and Telecommunications, 2024* | Under Review
+<!-- </div>
+</div> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+---
 **The Framework for Stress Detection Based on Electrodermal Activity and Machine Learning in Multi-Scenario Integration**  
 
 

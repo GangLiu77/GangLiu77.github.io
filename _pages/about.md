@@ -45,7 +45,7 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 ---
-**Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios**  
+[Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios](https://ieeexplore.ieee.org/document/10681787)
 
 **Gang Liu**, Siming Wang, Renzhi Yuan, Mugen Peng 
 

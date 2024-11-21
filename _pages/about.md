@@ -22,7 +22,7 @@ Hello! My name is Gang Liu(刘纲). I am currently a senior undergraduate studen
 
 From 2023 to 2024, I conducted research on wireless optical communication under the guidance of [Prof.Renzhi Yuan](https://scholar.google.com/citations?user=vuiBkVIAAAAJ&hl=en&oi=ao) at **BUPT**. In the summer of 2024, I participated in the iSURE program at the **University of Notre Dame**, where I conducted research on physiological signal processing under the supervision of [Prof.Zhi Zheng](https://engineering.nd.edu/faculty/zhi-zheng/).
 
-I am currently exploring research-focused master's opportunities, such as MPhil or MRes, and would be happy to connect if my profile aligns with your interests. You can reach me at:
+I am currently preparing for research assistant (RA) positions for the period between Fall 2025 and Fall 2026, while also planning to apply for PhD programs starting in Fall 2026. You can reach me at:
 gliu22@nd.edu | g.liu@se21.qmul.ac.uk.
 
 # 🔬 Research Interests

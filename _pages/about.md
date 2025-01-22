@@ -105,7 +105,7 @@ Beijing University of Posts and Telecommunications, Beijing
 
 Major:Telecommunications Engineering
 
-Average Score: 90.91/100 (Rank: 8/328)
+Average Score: 91.04/100 (Rank: 5/320)
 </div>
 </div>
 

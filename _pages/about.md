@@ -73,7 +73,7 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 <div class='school-box-text' markdown="1">
 *2024/07 - 2024/09*, Summer Research
 
-University of Notre Dame, Indiana
+University of Notre Dame, US
 
 </div>
 </div>
@@ -83,7 +83,7 @@ University of Notre Dame, Indiana
 <div class='school-box-text' markdown="1">
 *2021/09 - 2025/07*, Bachelor
 
-Beijing University of Posts and Telecommunications, Beijing
+Beijing University of Posts and Telecommunications, China
 
 Major:Telecommunications Engineering
 
@@ -96,7 +96,7 @@ Average Score: 90.75/100 (Rank: 5/320)
 <div class='school-box-text' markdown="1">
 *2021/09 - 2025/07*, **First Class** Degree
   
-Queen Mary University of London, London
+Queen Mary University of London, UK
 
 </div>
 </div>
@@ -108,29 +108,3 @@ During my undergraduate years, I ventured into various fascinating fields. I had
 Outside of my academic pursuits, I have a wide range of personal interests. I'm a music enthusiast 🎶, and this year, I attended numerous concerts and livehouse performances, including Mayday. I’d like to recommend my favorite artist, [Novo Amor](https://novoamor.co.uk/), a highly talented Welsh singer. I also enjoy mixology 🍾, cooking 🧑‍🍳 (if not for research, my dream would be to become a great chef), traveling ✈️, and gaming 🎮. I once reached Diamond rank in League of Legends.
 
 In closing, I am proud of the rich diversity of my journey thus far. The world's vastness calls for a lifetime of learning and exploration. I cherish this world as I cherish myself, and I am ready to embrace the chapters yet to come.
-
-
-
-<!-- # 💻 Internships
-- *2023/09 - 2024/07*: Research Intern at **Tencent AI Lab**, under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN).
-- *2023/02 - 2023/08*: Visiting Student at **CAIRI, Westlake University**, under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). -->
-
-<!-- # 💻 Internships
-
-<div class='school-box'>
-<div><img src='images/tencentailab.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-*2023/09 - 2024/07*, Research Intern
-
-**Tencent AI Lab**, under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN)
-</div>
-</div>
-
-<div class='school-box'>
-<div><img src='images/westlake.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-*2023/02 - 2023/08*, Visiting Student
-
-**CAIRI, Westlake University**, under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN)
-</div>
-</div>-->

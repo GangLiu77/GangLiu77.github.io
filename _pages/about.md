@@ -18,74 +18,40 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑🏻 Bio
-Hello! My name is Gang Liu(刘纲). I am currently a senior undergraduate student at Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London joint program, and my major is telecommunications engineering.
+Hello! My name is Gang Liu(刘纲). I have just graduated from the Beijing University of Posts and Telecommunications (BUPT) and Queen Mary University of London (QMUL) joint program, and obtained a **first-class degree, a ranking in the top 1%, an outstanding final project, and several publications**. My major is telecommunications engineering.
 
-From 2023 to 2024, I conducted research on wireless optical communication under the guidance of [Prof.Renzhi Yuan](https://scholar.google.com/citations?user=vuiBkVIAAAAJ&hl=en&oi=ao) at **BUPT**. In the summer of 2024, I participated in the iSURE program at the **University of Notre Dame**, where I conducted research on physiological signal processing under the supervision of [Prof.Zhi Zheng](https://engineering.nd.edu/faculty/zhi-zheng/).
+In the summer of 2024, I participated in the iSURE program at the **University of Notre Dame**, where I conducted research on physiological signal processing under the supervision of [Prof. Zhi Zheng](https://engineering.nd.edu/faculty/zhi-zheng/). My final year project was co-supervised by [Prof. Yixuan Zou](https://www.eecs.qmul.ac.uk/~yz323/) of QMUL and [Prof. Yuanwei Liu](https://www.eee.hku.hk/~yuanwei/), IEEE Fellow of the University of Hong Kong.
 
 I am currently preparing for research assistant (RA) positions for the period between Fall 2025 and Fall 2026, while also planning to apply for PhD programs starting in Fall 2026. You can reach me at:
 gangliu2004@outlook.com | g.liu@se21.qmul.ac.uk.
 
 # 🔬 Research Interests
-My previous research primarily focused on **wireless communication**. Currently, my research interests lie in using **signal processing** techniques to enhance **health monitoring and disease diagnosis**.
+I am driven by a research interest in leveraging signal processing to pioneer innovations in mobile health (mHealth) and affective computing. My work explores how different signal modalities can be harnessed for ubiquitous health monitoring and the objective assessment of emotional states.
 
-More specifically, we can effectively monitor human health using physiological signals such as electrodermal activity (EDA), electroencephalograms (EEG), and heart rate. These signals help us detect whether an individual is under stress or experiencing low mood, ensuring both mental and physical well-being—this was the focus of my summer research. Additionally, wireless signals such as WiFi can be used to monitor human behavior, for example, detecting falls or sudden tremors. These signals allow for timely alerts, prompting further medical examinations and care—this is the focus of my undergraduate thesis.
+My past projects demonstrate this focus. At the University of Notre Dame, I worked with physiological signals, specifically using Electrodermal Activity (EDA) to identify and quantify stress levels. Complementing this, my undergraduate thesis explored a novel approach using ambient wireless signals, where I implemented a self-supervised learning framework to recognize human activities from WiFi data. Through these diverse experiences, I aim to build systems that enable pervasive health awareness and empathetic technology.
 
-# 📝 Publications 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
-[Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613) 
-
+# 📝 Publications
+[Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613)
 Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
-
-*Journal on Selected Areas in Communications (JSAC)* | [PDF](../images/papers/JSAC.pdf)
-<!-- </div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+*Journal on Selected Areas in Communications (JSAC) IF: 19.92* | [PDF](../images/papers/JSAC.pdf)
 ---
 [Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios](https://ieeexplore.ieee.org/document/10681787)
-
-**Gang Liu**, Siming Wang, Renzhi Yuan, Mugen Peng 
-
+**Gang Liu**, Siming Wang, Renzhi Yuan, Mugen Peng
 *IEEE/CIC International Conference on Communications in China (ICCC 2024)* | [PDF](../images/papers/ICCC_2024.pdf)
-<!-- </div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 ---
-**Integration of Non-Line-of-Sight Ultraviolet Communication and Positioning: Key Technologies and Core Challenges**  
-
-Renzhi Yuan, Siming Wang, **Gang Liu**, Xinyi Chu, Mugen Peng
-
-*Journal of Beijing University of Posts and Telecommunications* | Under Review
-<!-- </div>
-</div> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+**CAM-MIM: Coherence-Aware Masked Reconstruction for Self-Supervised WiFi Human Sensing**
+**Gang Liu**, Yanling Hao, Yixuan Zou
+*International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)* | Under Review
 ---
-**The Framework for Stress Detection Based on Electrodermal Activity and Machine Learning in Multi-Scenario Integration**  
-
-
-**Gang Liu**, Zhi Zheng 
-
-*International Conference on Affective Computing and Intelligent Interaction (ACII 2025)* | Pending Submission
-<!-- </div>
-</div> -->
-
-
-
-
-
-<!-- # 🌟 Selected Honors and Awards -->
-
+**CIG-MAE: Cross-Modal Information-Guided Masked Autoencoder for Self-Supervised WiFi Sensing**
+**Gang Liu**, Yanling Hao, Yixuan Zou
+*IEEE Internet of Things Journal (IOTJ) IF: 10.62* | Under Review
+---
+**Electrodermal Activity (EDA) for Stress Detection: A Comprehensive Survey and Cross-Scenario Benchmark**
+**Gang Liu**, Zhi Zheng
+*IEEE Transactions on Affective Computing (TAC) IF: 11.09* | Under Review
 
 # 📖 Educations
-
-
 <div class='school-box'>
 <div><img src='images/nd.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
@@ -105,14 +71,14 @@ Beijing University of Posts and Telecommunications, Beijing
 
 Major:Telecommunications Engineering
 
-Average Score: 91.04/100 (Rank: 5/320)
+Average Score: 90.75/100 (Rank: 5/320)
 </div>
 </div>
 
 <div class='school-box'>
 <div><img src='images/qmul.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-*2021/09 - 2025/07*, Expected **First Class** Degree
+*2021/09 - 2025/07*, **First Class** Degree
   
 Queen Mary University of London, London
 
@@ -125,8 +91,7 @@ During my undergraduate years, I ventured into various fascinating fields. I had
 
 Outside of my academic pursuits, I have a wide range of personal interests. I'm a music enthusiast 🎶, and this year, I attended numerous concerts and livehouse performances, including Mayday. I’d like to recommend my favorite artist, [Novo Amor](https://novoamor.co.uk/), a highly talented Welsh singer. I also enjoy mixology 🍾, cooking 🧑‍🍳 (if not for research, my dream would be to become a great chef), traveling ✈️, and gaming 🎮. I once reached Diamond rank in League of Legends.
 
-
-
+In closing, I am proud of the rich diversity of my journey thus far. The world's vastness calls for a lifetime of learning and exploration. I cherish this world as I cherish myself, and I am ready to embrace the chapters yet to come.
 
 
 

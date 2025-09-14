@@ -33,27 +33,37 @@ My past projects demonstrate this focus. At the University of Notre Dame, I work
 # 📝 Publications
 
 [Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613)
+
 Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
+
 *Journal on Selected Areas in Communications (JSAC) IF: 19.92* | [PDF](../images/papers/JSAC.pdf)
 
 ---
 [Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios](https://ieeexplore.ieee.org/document/10681787)
+
 **Gang Liu**, Siming Wang, Renzhi Yuan, Mugen Peng
+
 *IEEE/CIC International Conference on Communications in China (ICCC 2024)* | [PDF](../images/papers/ICCC_2024.pdf)
 
 ---
 **CAM-MIM: Coherence-Aware Masked Reconstruction for Self-Supervised WiFi Human Sensing**
+
 **Gang Liu**, Yanling Hao, Yixuan Zou
+
 *International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)* | Under Review
 
 ---
 **CIG-MAE: Cross-Modal Information-Guided Masked Autoencoder for Self-Supervised WiFi Sensing**
+
 **Gang Liu**, Yanling Hao, Yixuan Zou
+
 *IEEE Internet of Things Journal (IOTJ) IF: 10.62* | Under Review
 
 ---
 **Electrodermal Activity (EDA) for Stress Detection: A Comprehensive Survey and Cross-Scenario Benchmark**
+
 **Gang Liu**, Zhi Zheng
+
 *IEEE Transactions on Affective Computing (TAC) IF: 11.09* | Under Review
 
  

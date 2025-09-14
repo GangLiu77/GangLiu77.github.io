@@ -36,7 +36,7 @@ My past projects demonstrate this focus. At the University of Notre Dame, I work
 
 Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
-*Journal on Selected Areas in Communications (JSAC) IF: 19.92* \| [PDF](../images/papers/JSAC.pdf)
+*Journal on Selected Areas in Communications (JSAC), IF: 19.92* \| [PDF](../images/papers/JSAC.pdf)
 
 ---
 [Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios](https://ieeexplore.ieee.org/document/10681787)
@@ -57,14 +57,14 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
 **Gang Liu**, Yanling Hao, Yixuan Zou
 
-*IEEE Internet of Things Journal (IOTJ) IF: 10.62* \| Under Review
+*IEEE Internet of Things Journal (IOTJ), IF: 10.62* \| Under Review
 
 ---
 **Electrodermal Activity (EDA) for Stress Detection: A Comprehensive Survey and Cross-Scenario Benchmark**
 
 **Gang Liu**, Zhi Zheng
 
-*IEEE Transactions on Affective Computing (TAC) IF: 11.09* \| Under Review
+*IEEE Transactions on Affective Computing (TAC), IF: 11.09* \| Under Review
 
  
 # 📖 Educations

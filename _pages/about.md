@@ -31,45 +31,30 @@ I am driven by a research interest in leveraging signal processing to pioneer in
 My past projects demonstrate this focus. At the University of Notre Dame, I worked with physiological signals, specifically using Electrodermal Activity (EDA) to identify and quantify stress levels. Complementing this, my undergraduate thesis explored a novel approach using ambient wireless signals, where I implemented a self-supervised learning framework to recognize human activities from WiFi data. Through these diverse experiences, I aim to build systems that enable pervasive health awareness and empathetic technology.
 
 # 📝 Publications
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+
 [Non-Line-of-Sight Ultraviolet Positioning Using Linearly-Arrayed Photon-Counting Receivers](https://ieeexplore.ieee.org/document/10556613)
 Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 *Journal on Selected Areas in Communications (JSAC) IF: 19.92* | [PDF](../images/papers/JSAC.pdf)
-<!-- </div>
-</div> -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+
 ---
 [Non-line-of-Sight Optical Positioning Under Full-Duplex Ultraviolet Communication Scenarios](https://ieeexplore.ieee.org/document/10681787)
 **Gang Liu**, Siming Wang, Renzhi Yuan, Mugen Peng
 *IEEE/CIC International Conference on Communications in China (ICCC 2024)* | [PDF](../images/papers/ICCC_2024.pdf)
-<!-- </div>
-</div> -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+
 ---
 **CAM-MIM: Coherence-Aware Masked Reconstruction for Self-Supervised WiFi Human Sensing**
 **Gang Liu**, Yanling Hao, Yixuan Zou
 *International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)* | Under Review
-<!-- </div>
-</div> -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+
 ---
 **CIG-MAE: Cross-Modal Information-Guided Masked Autoencoder for Self-Supervised WiFi Sensing**
 **Gang Liu**, Yanling Hao, Yixuan Zou
 *IEEE Internet of Things Journal (IOTJ) IF: 10.62* | Under Review
-<!-- </div>
-</div> -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+
 ---
 **Electrodermal Activity (EDA) for Stress Detection: A Comprehensive Survey and Cross-Scenario Benchmark**
 **Gang Liu**, Zhi Zheng
 *IEEE Transactions on Affective Computing (TAC) IF: 11.09* | Under Review
-<!-- </div>
-</div> -->
 
  
 # 📖 Educations

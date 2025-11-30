@@ -62,7 +62,7 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 ---
 **Electrodermal Activity (EDA) for Stress Detection: A Comprehensive Survey and Cross-Scenario Benchmark**
 
-**Gang Liu**, Zhi Zheng
+**Gang Liu**
 
 *IEEE Transactions on Affective Computing (TAC), IF: 11.09* \| Under Review \| [PDF](../images/papers/TAC.pdf)
 

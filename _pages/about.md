@@ -48,7 +48,7 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 ---
 **CAM-MIM: Coherence-Aware Masked Reconstruction for Self-Supervised WiFi Human Sensing**
 
-**Gang Liu**, Yanling Hao, Yixuan Zou
+**Gang Liu**, Yanling Hao, Yixuan Zou, Ziyu Zhou
 
 *International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)* \| Under Review \| [PDF](../images/papers/ICASSP_2026.pdf)
 

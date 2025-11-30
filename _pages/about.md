@@ -50,21 +50,21 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
 **Gang Liu**, Yanling Hao, Yixuan Zou
 
-*International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)* \| Under Review
+*International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)* \| Under Review | [PDF](../images/papers/ICASSP_2026.pdf)
 
 ---
 **CIG-MAE: Cross-Modal Information-Guided Masked Autoencoder for Self-Supervised WiFi Sensing**
 
 **Gang Liu**, Yanling Hao, Yixuan Zou
 
-*IEEE Internet of Things Journal (IOTJ), IF: 10.62* \| Under Review
+*IEEE Internet of Things Journal (IOTJ), IF: 10.62* \| Under Review | [PDF](../images/papers/IOTJ.pdf)
 
 ---
 **Electrodermal Activity (EDA) for Stress Detection: A Comprehensive Survey and Cross-Scenario Benchmark**
 
 **Gang Liu**, Zhi Zheng
 
-*IEEE Transactions on Affective Computing (TAC), IF: 11.09* \| Under Review
+*IEEE Transactions on Affective Computing (TAC), IF: 11.09* \| Under Review | [PDF](../images/papers/TAC.pdf)
 
  
 # 📖 Educations

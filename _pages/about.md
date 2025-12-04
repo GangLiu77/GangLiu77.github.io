@@ -64,7 +64,7 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 
 **Gang Liu**
 
-*IEEE Transactions on Affective Computing (TAC), IF: 11.09* \| Under Review \| [PDF](../images/papers/TAC.pdf)
+*IEEE Transactions on Affective Computing (TAC), IF: 11.09* \| Submitted\| [PDF](../images/papers/TAC.pdf)
 
  
 # 📖 Educations

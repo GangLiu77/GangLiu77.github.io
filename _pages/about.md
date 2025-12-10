@@ -60,11 +60,11 @@ Renzhi Yuan, Siming Wang, **Gang Liu**, Mugen Peng
 *IEEE Internet of Things Journal (IOTJ), IF: 10.62* \| Under Review \| [PDF](../images/papers/IOTJ.pdf)
 
 ---
-**Electrodermal Activity (EDA) for Stress Detection: A Comprehensive Survey and Cross-Scenario Benchmark**
+**Electrodermal Activity (EDA) for Stress Detection: A Comprehensive Survey and Benchmark**
 
 **Gang Liu**
 
-*IEEE Transactions on Affective Computing (TAC), IF: 11.09* \| Submitted\| [PDF](../images/papers/TAC.pdf)
+*IEEE Transactions on Affective Computing (TAFFC), IF: 11.09* \| Submitted\| [PDF](../images/papers/TAC.pdf)
 
  
 # 📖 Educations

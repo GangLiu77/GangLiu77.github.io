@@ -3,6 +3,14 @@ layout: default
 ---
 <style>
   .home-section { scroll-margin-top: 6rem; margin-bottom: 3rem; }
+  .navbar-contacts { display: flex; align-items: center; gap: 0.65rem; }
+  .navbar-contacts a { display: inline-flex; align-items: center; color: #111; }
+  .navbar-contacts svg { width: 25px; height: 25px; fill: currentColor; }
+  .navbar-contacts img { width: 32px; height: 28px; object-fit: contain; }
+  .navbar-contacts a:hover { color: var(--global-theme-color); }
+  .education-entry { margin-bottom: 1.5rem; }
+  .education-heading { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.25rem 1rem; }
+  .education-details { margin-top: 0.25rem; }
   .publications ol.bibliography { list-style: decimal; padding-left: 1.7rem; }
   .publications ol.bibliography > li { display: list-item; padding-left: 0.4rem; margin-bottom: 1.5rem; }
   .publications ol.bibliography > li::marker { font-weight: 600; }
@@ -15,7 +23,6 @@ layout: default
   <section id="about" class="home-section" aria-labelledby="about-heading">
     <header class="post-header">
       <h1 id="about-heading" class="post-title">{{ site.title }}</h1>
-      <p class="desc">{{ page.subtitle }}</p>
     </header>
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
@@ -63,5 +70,24 @@ layout: default
     <div class="publications">
       {% bibliography %}
     </div>
+  </section>
+
+  <section id="education" class="home-section" aria-labelledby="education-heading">
+    <h2 id="education-heading">Education</h2>
+    {% for entry in page.education %}
+      <div class="education-entry">
+        <div class="education-heading">
+          <strong>{% if entry.url %}<a href="{{ entry.url }}">{{ entry.institution }}</a>{% else %}{{ entry.institution }}{% endif %}</strong>
+          <span>{{ entry.dates }}</span>
+        </div>
+        <div class="education-details">{{ entry.degree }}</div>
+        <div>{{ entry.details }}</div>
+      </div>
+    {% endfor %}
+  </section>
+
+  <section id="miscellaneous" class="home-section" aria-labelledby="miscellaneous-heading">
+    <h2 id="miscellaneous-heading">Miscellaneous</h2>
+    <p>{{ page.miscellaneous }}</p>
   </section>
 </div>

@@ -3,4 +3,4 @@ date: 2026-06-01
 inline: true
 ---
 
-I joined the University of Notre Dame as a Ph.D. student in Electrical Engineering, supervised by Prof. Zhi Zheng.
+🎓 After a year of adventures, I'm back at my “alma mater,” the [University of Notre Dame](https://www.nd.edu/), to pursue a Ph.D. with [Prof. Zhi Zheng](https://engineering.nd.edu/faculty/zhi-zheng/). Excited for my next chapter in the U.S.! 🇺🇸

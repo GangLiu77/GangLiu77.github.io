@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Student in Electrical Engineering · University of Notre Dame
 profile:
   align: right
   image: prof_pic.jpg
@@ -13,12 +12,35 @@ announcements:
   enabled: true
 latest_posts:
   enabled: false
+education:
+  - institution: University of Notre Dame
+    url: https://www.nd.edu/
+    dates: Jun 2026 – Expected May 2031
+    degree: Ph.D. in Electrical Engineering
+    details: "Supervisor: Prof. Zhi Zheng"
+  - institution: Independent Adventurer
+    dates: Jun 2025 – Jun 2026
+    degree: Gap Year
+    details: Travelling around China
+  - institution: Beijing University of Posts and Telecommunications (BUPT)
+    url: https://www.bupt.edu.cn/
+    dates: Sept 2021 – Jun 2025
+    degree: Bachelor of Engineering in Telecommunications Engineering
+    details: "Avg Score: 90.75/100 (Top 1%)"
+  - institution: University of Notre Dame
+    url: https://www.nd.edu/
+    dates: Jul 2024 – Sep 2024
+    degree: International Summer Undergraduate Research Experience (iSURE)
+    details: "Supervisor: Prof. Zhi Zheng"
+miscellaneous: "My interests are all over the map: mixing cocktails 🍸, travelling ✈️, gaming 🎮, cooking 🍳, all things vintage 📻, and music 🎵, to name just a few. My biggest dream right now? Getting my driver's license ASAP! 🚗"
 ---
 
-I am a Ph.D. student in Electrical Engineering at the [University of Notre Dame](https://www.nd.edu/), supervised by Prof. Zhi Zheng. I joined Notre Dame in June 2026, following an undergraduate research visit through the International Summer Undergraduate Research Experience (iSURE) program in 2024.
+Hi there! 👋
 
-My research uses radio-frequency and physiological signals, together with signal processing and machine learning, to support human and object sensing. My recent work focuses on self-supervised WiFi sensing and stress detection from electrodermal activity (EDA). I have also worked on ultraviolet communication and positioning, and spectrum sensing using software-defined radio.
+I'm a Ph.D. student in Electrical Engineering at the [University of Notre Dame](https://www.nd.edu/). In 2025, I received my B.Eng. in Telecommunications Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), then took a gap year to travel around China. 🎓🧳
 
-I received my B.Eng. in Telecommunications Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in June 2025. My undergraduate thesis on WiFi human activity recognition received the Excellent Undergraduate Thesis award.
+I'm part of the [Intelligent Interaction Research Lab](https://sites.google.com/view/iirl/home), supervised by [Prof. Zhi Zheng](https://engineering.nd.edu/faculty/zhi-zheng/). I also spent the summer of 2024 doing research with her, so it feels good to be back! 🔬
 
-[Email](mailto:gangliu2004@outlook.com) · [Google Scholar](https://scholar.google.com/citations?user=Aqthwi8AAAAJ) · [GitHub](https://github.com/GangLiu77) · [CV](/assets/pdf/Gang_Liu_CV.pdf)
+My research interests revolve around technology for health 🩺, using tools ranging from large language models to signal processing and beyond. I'm still exploring specific directions and figuring out what excites me. With the proposed changes to U.S. international students' duration of status (D/S) on hold and unlikely to go ahead, I guess I can take a little more time to figure out what my three Ph.D. thesis projects should be. 😅
+
+[CV](/assets/pdf/Gang_Liu_CV.pdf) · [GitHub](https://github.com/GangLiu77)

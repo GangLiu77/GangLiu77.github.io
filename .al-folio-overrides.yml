@@ -6,14 +6,14 @@ overrides:
     gem_version: 1.0.15
     upstream_path: _includes/header.liquid
     upstream_sha256: c8663513baded68d9fa5fbe4d6363a976535bbe201efe5138243d0ff03101058
-    local_sha256: cf3e5fc3a382c18180902e080508c7c89b3fb353a93a9815ab7eb5c9d6cf3256
+    local_sha256: 7c02a0293321bf532e9361a37fd65969bd903913805914d0b6ac7517339294b5
     acknowledged_at: '2026-09-30'
   _layouts/about.liquid:
     owner: al_folio_core
     gem_version: 1.0.15
     upstream_path: _layouts/about.liquid
     upstream_sha256: 2c28eb83b71fe65f252202c11f0b4a19a9b6f1faccdc870b4f91c4ea51d0c6f1
-    local_sha256: 555f0d6f4e368e6d4882eb961de10f7f25907951b652e6c76c9420bd17054b12
+    local_sha256: 410f216083383ab59fcae6cd7e822b6f6607a0ab0681ff51c1a178a20ab98cf8
     acknowledged_at: '2026-09-30'
   _layouts/bib.liquid:
     owner: al_folio_core

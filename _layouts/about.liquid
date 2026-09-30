@@ -1,0 +1,67 @@
+---
+layout: default
+---
+<style>
+  .home-section { scroll-margin-top: 6rem; margin-bottom: 3rem; }
+  .publications ol.bibliography { list-style: decimal; padding-left: 1.7rem; }
+  .publications ol.bibliography > li { display: list-item; padding-left: 0.4rem; margin-bottom: 1.5rem; }
+  .publications ol.bibliography > li::marker { font-weight: 600; }
+  .publication-title { font-weight: 600; }
+  .publication-entry { line-height: 1.6; }
+  .publication-links { margin-top: 0.2rem; }
+  .publication-links a { margin-right: 0.8rem; }
+</style>
+<div class="post">
+  <section id="about" class="home-section" aria-labelledby="about-heading">
+    <header class="post-header">
+      <h1 id="about-heading" class="post-title">{{ site.title }}</h1>
+      <p class="desc">{{ page.subtitle }}</p>
+    </header>
+    {% if page.profile %}
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+        {% if page.profile.image %}
+          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+          {% if page.profile.image_circular %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% endif %}
+          {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class alt=site.title cache_bust=true %}
+        {% endif %}
+        {% if page.profile.more_info %}
+          <div class="more-info">{{ page.profile.more_info }}</div>
+        {% endif %}
+      </div>
+    {% endif %}
+    <div class="clearfix">{{ content }}</div>
+  </section>
+
+  <section id="news" class="home-section" aria-labelledby="news-heading">
+    <h2 id="news-heading">News</h2>
+    <div class="news table-responsive">
+      <table class="table table-sm table-borderless">
+        {% assign news = site.news | sort: 'date' | reverse %}
+        {% for item in news %}
+          <tr>
+            <th scope="row" style="width: 20%">{{ item.date | date: '%b %Y' }}</th>
+            <td>
+              {% if item.inline %}
+                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+              {% else %}
+                <details><summary>{{ item.title }}</summary>{{ item.content }}</details>
+              {% endif %}
+            </td>
+          </tr>
+        {% else %}
+          <tr><td>No news yet.</td></tr>
+        {% endfor %}
+      </table>
+    </div>
+  </section>
+
+  <section id="publications" class="home-section" aria-labelledby="publications-heading">
+    <h2 id="publications-heading">Publications</h2>
+    <div class="publications">
+      {% bibliography %}
+    </div>
+  </section>
+</div>

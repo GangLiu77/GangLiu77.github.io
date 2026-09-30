@@ -1,0 +1,27 @@
+---
+---
+<div class="publication-entry" id="{{ entry.key }}">
+  <div class="publication-title">{{ entry.title }}</div>
+  <div class="publication-authors">
+    {% for author in entry.author_array %}
+      {%- unless forloop.first %}{% if forloop.last %} and {% else %}, {% endif %}{% endunless -%}
+      {%- if site.scholar.last_name contains author.last and site.scholar.first_name contains author.first -%}
+        <strong>{{ author.first }} {{ author.last }}</strong>
+      {%- else -%}
+        {{ author.first }} {{ author.last }}
+      {%- endif -%}
+    {% endfor %}
+  </div>
+  <div class="publication-venue">
+    {% if entry.journal %}<em>{{ entry.journal }}</em>{% elsif entry.booktitle %}<em>{{ entry.booktitle }}</em>{% elsif entry.arxiv %}<em>arXiv preprint</em>{% endif %}
+    {% if entry.volume %}, {{ entry.volume }}{% if entry.number %}({{ entry.number }}){% endif %}{% endif %}
+    {% if entry.pages %}, pp. {{ entry.pages | replace: '--', '–' }}{% endif %}
+    {% if entry.year %}, {{ entry.year }}{% endif %}.
+  </div>
+  {% if entry.note %}<div class="publication-note">{{ entry.note }}</div>{% endif %}
+  <div class="publication-links">
+    {% if entry.doi %}<a href="https://doi.org/{{ entry.doi }}">DOI</a>{% endif %}
+    {% if entry.arxiv %}<a href="https://arxiv.org/abs/{{ entry.arxiv }}">arXiv</a>{% endif %}
+    {% if entry.pdf %}<a href="{{ entry.pdf }}">PDF</a>{% endif %}
+  </div>
+</div>

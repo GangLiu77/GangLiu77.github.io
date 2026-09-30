@@ -1,4 +1,5 @@
 **/*.map
+_unused/**
 **/*.min.css
 **/*.min.js
 assets/plotly/demo.html

@@ -1,8 +1,6 @@
 ---
-layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-06-01
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I graduated from BUPT with a B.Eng. in Telecommunications Engineering and received the Excellent Undergraduate Thesis award.

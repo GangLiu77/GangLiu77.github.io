@@ -1,0 +1,20 @@
+<header>
+  <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" aria-label="Main navigation">
+    <div class="container">
+      <a class="navbar-brand title" href="{{ '/' | relative_url }}#about">{{ site.title }}</a>
+      <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav">
+        <ul class="navbar-nav navbar-menu-list flex-nowrap">
+          <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}#about">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}#news">News</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}#publications">Publications</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

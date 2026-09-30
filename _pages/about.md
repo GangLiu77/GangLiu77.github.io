@@ -32,7 +32,7 @@ education:
     dates: Jul 2024 – Sep 2024
     degree: International Summer Undergraduate Research Experience (iSURE)
     details: "Supervisor: Prof. Zhi Zheng"
-miscellaneous: "My interests are all over the map: mixing cocktails 🍸, travelling ✈️, gaming 🎮, cooking 🍳, all things vintage 📻, and music 🎵, to name just a few. My biggest dream right now? Getting my driver's license ASAP! 🚗"
+miscellaneous: "My interests are all over the map: mixing cocktails 🍸, travelling ✈️, gaming 🎮, cooking 🍳, all things vintage 📻, and music 🎵, to name just a few. Right now, my biggest dream is to get my driver's license ASAP! 🚗"
 ---
 
 Hi there! 👋
